@@ -22,16 +22,16 @@ I drew inspiration from these websites.
 
 Examples:
 
-![logo](https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri.png)
+![logo](https://raw.githubusercontent.com/magnusviri/textart/master/examples/magnusviri.png)
 
-![logo as text](https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri_text.png)
+![logo as text](https://raw.githubusercontent.com/magnusviri/textart/master/examples/magnusviri_text.png)
 
-HTML source of the above image: https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri.html
+HTML source of the above image: https://raw.githubusercontent.com/magnusviri/textart/master/examples/magnusviri.html
 
 Run these commands in Mac OS X terminal for more examples:
 
-    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/color_wheel.txt
-    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/earth-at-night-asia.txt
-    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri.txt
-    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/poppy-2444596.txt
-    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/sunrise-2445150.txt
+    curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/color_wheel.txt
+    curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/earth-at-night-asia.txt
+    curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/magnusviri.txt
+    curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/poppy-2444596.txt
+    curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/sunrise-2445150.txt
