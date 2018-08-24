@@ -19,3 +19,9 @@ I drew inspiration from these websites.
 - https://gist.github.com/donatj/1353237
 - http://paulbourke.net/dataformats/asciiart/
 - https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit
+
+Examples:
+
+![logo](https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri.png)
+
+![logo as text](https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri_text.png)
