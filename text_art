@@ -167,7 +167,7 @@ function enc_lf() {
 
 function ascii_color( $red, $green, $blue ) {
 	global $greyscale;
-	if ( $greyscale or ( abs($red-$green) < .005 and abs($green-$blue) < .005 ) ) {
+	if ( $greyscale or ( abs($red-$green) < .05 and abs($green-$blue) < .05 ) ) {
 		$shade = (int) (25*($green+$red+$blue)/3 + 231);
 		if ( $shade < 232 ) { $shade = 0; }
 		if ( $shade > 255 ) { $shade = 231; }
