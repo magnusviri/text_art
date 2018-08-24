@@ -26,12 +26,12 @@ Examples:
 
 ![logo as text](https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri_text.png)
 
-Run these commands in Mac OS X terminal:
+HTML source of the above image: https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri.html
+
+Run these commands in Mac OS X terminal for more examples:
 
     curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/color_wheel.txt
     curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/earth-at-night-asia.txt
     curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri.txt
     curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/poppy-2444596.txt
     curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/sunrise-2445150.txt
-
-As a webpage: https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri.html
