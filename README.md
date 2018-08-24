@@ -22,10 +22,16 @@ I drew inspiration from these websites.
 
 Examples:
 
-![logo](https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri.png)
+![logo](https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri.png)
 
-![logo as text](https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri_text2.png)
+![logo as text](https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri_text.png)
 
-Run this in Mac OS X terminal `curl https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri.txt`
+Run these commands in Mac OS X terminal:
 
-As a webpage: https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri.html
+    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/color_wheel.txt
+    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/earth-at-night-asia.txt
+    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri.txt
+    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/poppy-2444596.txt
+    curl https://raw.githubusercontent.com/magnusviri/text_art/master/examples/sunrise-2445150.txt
+
+As a webpage: https://raw.githubusercontent.com/magnusviri/text_art/master/examples/magnusviri.html
