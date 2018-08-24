@@ -25,3 +25,7 @@ Examples:
 ![logo](https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri.png)
 
 ![logo as text](https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri_text2.png)
+
+Run this in Mac OS X terminal `curl https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri.txt`
+
+As a webpage: https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri.html
