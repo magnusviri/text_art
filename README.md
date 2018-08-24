@@ -24,4 +24,4 @@ Examples:
 
 ![logo](https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri.png)
 
-![logo as text](https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri_text.png)
+![logo as text](https://raw.githubusercontent.com/magnusviri/text_art/master/magnusviri_text2.png)
