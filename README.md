@@ -16,6 +16,6 @@ www.magnusviri.com
 
 I drew inspiration from these websites.
 
-https://gist.github.com/donatj/1353237
-http://paulbourke.net/dataformats/asciiart/
-https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit
+- https://gist.github.com/donatj/1353237
+- http://paulbourke.net/dataformats/asciiart/
+- https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit
