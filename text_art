@@ -7,7 +7,7 @@
 # By James Reynolds
 # www.magnusviri.com
 #
-# Usage: text_art [-h] [-w <width>] (<file>|raw_colors|color_wheel|color_gradients) [(<file>|etc)..]
+# Usage: textart [-h] [-w <width>] (<file>|raw_colors|color_wheel|color_gradients) [(<file>|etc)..]
 #
 #     -h print html page instead of terminal escape sequences (terminal is default).
 #     -w width in characters (height is based on width).
@@ -70,7 +70,7 @@ if( !isset($argv[0]) || !strlen($argv[0]) ) {
 ##########################################################################################
 
 function usage($message="") {
-	print "Usage: text_art [-h] [-r <ratio>] [-w <width>] (<file>|raw_colors|color_wheel|color_gradients) [(<file>|etc)..]\n";
+	print "Usage: textart [-h] [-r <ratio>] [-w <width>] (<file>|raw_colors|color_wheel|color_gradients) [(<file>|etc)..]\n";
 	print "\n";
 	print "     -h print html page instead of terminal escape sequences (terminal is default).\n";
 	print "     -r width to height ratio (default is .5).\n";
