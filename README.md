@@ -28,10 +28,12 @@ Examples:
 
 HTML source of the above image: https://raw.githubusercontent.com/magnusviri/textart/master/examples/magnusviri.html
 
-Run these commands in Mac OS X terminal for more examples:
+Run these commands in Mac OS X terminal (or iTerm2) for more examples:
 
     curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/color_wheel.txt
     curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/earth-at-night-asia.txt
     curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/magnusviri.txt
     curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/poppy-2444596.txt
     curl https://raw.githubusercontent.com/magnusviri/textart/master/examples/sunrise-2445150.txt
+
+Note, on iTerm2 it looks best if the ANSI color for black is black. Otherwise it will look wrong. Some of the color presets change the color of black and so yeah.
